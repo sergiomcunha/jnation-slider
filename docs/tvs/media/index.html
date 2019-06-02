@@ -10,10 +10,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="robots" content="none">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="JNation Media TV content">
 
     <title>JNation Media TV</title>
-    <meta name="description" content="JNation Media TV content">
-    <meta name="robots" content="none">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
@@ -23,22 +24,27 @@
   <body>
     <iframe allowfullscreen></iframe>
     <footer>
-      <i class="fas fa-wifi"></i> JNATION
+      <i class="fas fa-wifi"></i> JNation2019
     </footer>
 
     <script src='../../scripts/framed-slider.js'></script>
     <script>
-      // TODO replace frames below with real data
       JNationFramedSlider([
         {
-          source: 'https://samaxes.com',
-          timeout: 5 * 1000
+          source: 'https://alligator.social/templates/jnation/',
+          timeout: 3 * 60 * 1000
         }, {
-          source: 'https://scom.pt/',
-          timeout: 5 * 1000
+          source: 'schedule.html',
+          timeout: 30 * 1000
         }, {
-          source: 'https://swair.ptech.io/',
-          timeout: 5 * 1000
+          source: 'sponsors.html',
+          timeout: 30 * 1000
+        }, {
+          source: 'app.html',
+          timeout: 30 * 1000
+        }, {
+          source: 'gamification.html',
+          timeout: 30 * 1000
         }
       ]);
     </script>
