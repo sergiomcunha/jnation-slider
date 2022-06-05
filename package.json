@@ -1,7 +1,7 @@
 {
   "name": "@jnation/timed-slider",
   "author": "Samuel Santos <ssantos@present-technologies.com>",
-  "version": "1.0.0",
+  "version": "1.0.0-2022",
   "description": "TV sliders for JNation conference",
   "license": "MIT",
   "keywords": [
@@ -23,7 +23,6 @@
     "dev": "npm-run-all --parallel start watch",
     "start": "serve docs"
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
@@ -34,6 +33,6 @@
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-node-resolve": "^5.0.0",
     "rollup-plugin-terser": "^5.0.0",
-    "serve": "^11.0.1"
+    "serve": "^13.0.2"
   }
 }
