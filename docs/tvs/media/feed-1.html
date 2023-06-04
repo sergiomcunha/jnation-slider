@@ -1,0 +1,92 @@
+<!--
+ ____                                _     _____            _                    _                _
+|  _ \  _ __  ___  ___   ___  _ __  | |_  |_   _|___   ___ | |__   _ __    ___  | |  ___    __ _ (_)  ___  ___
+| |_) || '__|/ _ \/ __| / _ \| '_ \ | __|   | | / _ \ / __|| '_ \ | '_ \  / _ \ | | / _ \  / _` || | / _ \/ __|
+|  __/ | |  |  __/\__ \|  __/| | | || |_    | ||  __/| (__ | | | || | | || (_) || || (_) || (_| || ||  __/\__ \
+|_|    |_|   \___||___/ \___||_| |_| \__|   |_| \___| \___||_| |_||_| |_| \___/ |_| \___/  \__, ||_| \___||___/
+                                                                                          |___/
+-->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="none">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>JNation Youtube feed</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      body {
+        background-color: #091210;
+        color: white;
+        display: grid;
+        font-family: system-ui;
+      }
+
+      .frames {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 1rem;
+      }
+      .frames > div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .frames iframe {
+        border: 0;
+        display: block;
+        height:calc(100vh/2.9);
+        width: calc(100vw/2.9);
+      }
+      .frames div p {
+        font-size: 2rem;
+        font-weight: bold;
+        margin-top: 1rem;
+      }
+
+      .dot {
+        height: calc(2rem/1.5);
+        width: calc(2rem/1.5);
+        border-radius: 50%;
+        display: inline-block;
+      }
+      .dot-auditorium {
+        background-color: #D65745;
+      }
+      .dot-church {
+        background-color: #5296D6;
+      }
+      .dot-mondego {
+        background-color: #55AB68;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="frames">
+      <div>
+        <iframe src="https://www.youtube.com/embed/pWWWlb6Ddlo?controls=0&autoplay=1&mute=1" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
+        <p><span class="dot dot-church"></span> Old Church</p>
+      </div>
+      <div>
+        <iframe src="https://www.youtube.com/embed/4yIkYQqKQv4?controls=0&autoplay=1&mute=1" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
+        <p><span class="dot dot-mondego"></span> Mondego</p>
+      </div>
+    </div>
+    <div class="frames">
+      <div>
+        <iframe src="https://www.youtube.com/embed/Sq9aqieVlD8?controls=0&autoplay=1&mute=1" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
+        <p><span class="dot dot-auditorium"></span> Grand Auditorium</p>
+      </div>
+    </div>
+  </body>
+</html>
