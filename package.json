@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://git.cadsh.com/jnation/timed-slider"
+    "url": "https://github.com/sergiomcunha/jnation-slider"
   },
   "bugs": {
-    "url": "http://git.cadsh.com/jnation/timed-slider/issues"
+    "url": "https://github.com/sergiomcunha/jnation-slider/issues"
   },
   "scripts": {
     "build": "rollup -c",
@@ -24,15 +24,15 @@
     "start": "serve docs"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
     "npm-run-all": "^4.1.5",
-    "rollup": "^1.12.4",
-    "rollup-plugin-babel": "^4.3.2",
-    "rollup-plugin-eslint": "^6.0.0",
-    "rollup-plugin-livereload": "^1.0.0",
-    "rollup-plugin-node-resolve": "^5.0.0",
-    "rollup-plugin-terser": "^5.0.0",
-    "serve": "^13.0.2"
+    "rollup": "^4.18.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-eslint": "^7.0.0",
+    "rollup-plugin-livereload": "^2.0.5",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "serve": "^14.2.3"
   }
 }
