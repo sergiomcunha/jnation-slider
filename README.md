@@ -20,10 +20,10 @@ Done!
 
 ## JNation TV URLs
 
-* Media TVs: [https://bit.ly/jnation-media](https://sergiomcunha.github.io/jnation-slider/tvs/media/)
-* Auditorium TVs: [https://bit.ly/jnation-auditorium](https://sergiomcunha.github.io/jnation-slider/tvs/auditorium/)
-* Old Church TVs: [https://bit.ly/jnation-church](https://sergiomcunha.github.io/jnation-slider/tvs/church/)
-* Mondego TVs: [https://bit.ly/jnation-mondego](https://sergiomcunha.github.io/jnation-slider/tvs/mondego/)
-* Almedina TVs: [https://bit.ly/jnation-almedina](https://sergiomcunha.github.io/jnation-slider/tvs/almedina/)
-* Sofia TVs: [https://bit.ly/jnation-sofia](https://sergiomcunha.github.io/jnation-slider/tvs/sofia/)
-* Inês de Castro TVs: [https://bit.ly/jnation-ines](https://sergiomcunha.github.io/jnation-slider/tvs/ines-castro/)
+* Media TVs: [https://tinyurl.com/jnation-media](https://sergiomcunha.github.io/jnation-slider/docs/tvs/media/)
+* Auditorium TVs: [https://tinyurl.com/jnation-auditorium](https://sergiomcunha.github.io/jnation-slider/docs/tvs/auditorium/)
+* Old Church TVs: [https://tinyurl.com/jnation-church](https://sergiomcunha.github.io/jnation-slider/docs/tvs/church/)
+* Mondego TVs: [https://tinyurl.com/jnation-mondego](https://sergiomcunha.github.io/jnation-slider/docs/tvs/mondego/)
+* Almedina TVs: [https://tinyurl.com/jnation-almedina](https://sergiomcunha.github.io/jnation-slider/docs/tvs/almedina/)
+* Sofia TVs: [https://tinyurl.com/jnation-sofia](https://sergiomcunha.github.io/jnation-slider/docs/tvs/sofia/)
+* Inês de Castro TVs: [https://tinyurl.com/jnation-inesc](https://sergiomcunha.github.io/jnation-slider/docs/tvs/ines-castro/)
