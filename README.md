@@ -23,6 +23,7 @@ Done!
 * Media TVs: [https://tinyurl.com/jnation-media](https://sergiomcunha.github.io/jnation-slider/docs/tvs/media/)
 * Mediax TVs: [https://tinyurl.com/jnation-mediax](https://sergiomcunha.github.io/jnation-slider/docs/tvs/mediax/)
 * Auditorium TVs: [https://tinyurl.com/jnation-auditorium](https://sergiomcunha.github.io/jnation-slider/docs/tvs/auditorium/)
+* Aeminium: [https://tinyurl.com/jnation-aeminium](https://sergiomcunha.github.io/jnation-slider/docs/tvs/aeminium/)
 * Old Church TVs: [https://tinyurl.com/jnation-church](https://sergiomcunha.github.io/jnation-slider/docs/tvs/church/)
 * Mondego TVs: [https://tinyurl.com/jnation-mondego](https://sergiomcunha.github.io/jnation-slider/docs/tvs/mondego/)
 * Almedina TVs: [https://tinyurl.com/jnation-almedina](https://sergiomcunha.github.io/jnation-slider/docs/tvs/almedina/)
